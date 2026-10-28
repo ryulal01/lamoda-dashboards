@@ -1,0 +1,81 @@
+﻿product_id,product_name,category,brand,price_rub,stock_status
+1,Пальто #001,Обувь,Brand C,4490,out_of_stock
+2,Джинсы #002,Красота,Brand B,24990,low_stock
+3,Ботинки #003,Красота,Brand B,6990,low_stock
+4,Крем #004,Одежда,Brand B,24990,in_stock
+5,Крем #005,Обувь,Brand D,1290,low_stock
+6,Ботинки #006,Спорт,Brand A,2990,low_stock
+7,Ботинки #007,Сумки и аксессуары,Brand C,4490,low_stock
+8,Ботинки #008,Спорт,Brand C,4490,out_of_stock
+9,Сумка #009,Обувь,Brand A,4490,in_stock
+10,Джинсы #010,Красота,Brand C,14990,in_stock
+11,Худи #011,Дом,Brand B,4490,out_of_stock
+12,Худи #012,Обувь,Brand B,9990,out_of_stock
+13,Рюкзак #013,Дом,Brand B,6990,out_of_stock
+14,Рюкзак #014,Сумки и аксессуары,Brand C,24990,in_stock
+15,Платье #015,Сумки и аксессуары,Brand B,1990,in_stock
+16,Платье #016,Одежда,Brand B,24990,in_stock
+17,Худи #017,Обувь,Brand A,4490,low_stock
+18,Сумка #018,Дом,Brand D,6990,out_of_stock
+19,Крем #019,Спорт,Brand D,4490,in_stock
+20,Джинсы #020,Сумки и аксессуары,Brand C,2990,low_stock
+21,Крем #021,Одежда,Brand D,4490,in_stock
+22,Ботинки #022,Обувь,Brand B,9990,low_stock
+23,Куртка #023,Красота,Brand D,1990,in_stock
+24,Сумка #024,Одежда,Brand B,4490,in_stock
+25,Крем #025,Обувь,Brand B,24990,in_stock
+26,Платье #026,Одежда,Brand B,1990,in_stock
+27,Рюкзак #027,Одежда,Brand B,9990,in_stock
+28,Кроссовки #028,Сумки и аксессуары,Brand A,2990,in_stock
+29,Кроссовки #029,Дом,Brand B,4490,in_stock
+30,Пальто #030,Обувь,Brand D,9990,low_stock
+31,Пальто #031,Дом,Brand D,4490,out_of_stock
+32,Рюкзак #032,Спорт,Brand D,2990,in_stock
+33,Платье #033,Сумки и аксессуары,Brand D,4490,in_stock
+34,Худи #034,Спорт,Brand A,1990,low_stock
+35,Куртка #035,Обувь,Brand D,1290,in_stock
+36,Рюкзак #036,Спорт,Brand D,1290,out_of_stock
+37,Худи #037,Одежда,Brand C,6990,in_stock
+38,Сумка #038,Красота,Brand A,14990,in_stock
+39,Платье #039,Обувь,Brand A,9990,low_stock
+40,Джинсы #040,Спорт,Brand B,9990,out_of_stock
+41,Ботинки #041,Спорт,Brand C,2990,in_stock
+42,Кроссовки #042,Одежда,Brand C,14990,in_stock
+43,Крем #043,Дом,Brand A,1290,out_of_stock
+44,Куртка #044,Сумки и аксессуары,Brand B,1990,low_stock
+45,Крем #045,Красота,Brand B,4490,in_stock
+46,Ботинки #046,Одежда,Brand C,14990,in_stock
+47,Сумка #047,Одежда,Brand A,4490,out_of_stock
+48,Крем #048,Красота,Brand D,24990,in_stock
+49,Сумка #049,Красота,Brand C,6990,low_stock
+50,Пальто #050,Дом,Brand A,14990,out_of_stock
+51,Джинсы #051,Сумки и аксессуары,Brand B,4490,low_stock
+52,Сумка #052,Спорт,Brand D,6990,low_stock
+53,Сумка #053,Спорт,Brand A,6990,out_of_stock
+54,Сумка #054,Сумки и аксессуары,Brand D,2990,low_stock
+55,Джинсы #055,Дом,Brand B,1990,in_stock
+56,Пальто #056,Красота,Brand C,6990,in_stock
+57,Крем #057,Спорт,Brand C,2990,out_of_stock
+58,Худи #058,Одежда,Brand D,1990,in_stock
+59,Кроссовки #059,Спорт,Brand C,4490,in_stock
+60,Рюкзак #060,Сумки и аксессуары,Brand A,6990,in_stock
+61,Ботинки #061,Обувь,Brand B,24990,low_stock
+62,Кроссовки #062,Спорт,Brand A,1990,low_stock
+63,Платье #063,Дом,Brand D,1990,in_stock
+64,Рюкзак #064,Обувь,Brand B,6990,in_stock
+65,Ботинки #065,Дом,Brand A,2990,low_stock
+66,Ботинки #066,Сумки и аксессуары,Brand C,4490,in_stock
+67,Рюкзак #067,Сумки и аксессуары,Brand D,2990,low_stock
+68,Платье #068,Красота,Brand C,4490,in_stock
+69,Ботинки #069,Дом,Brand B,2990,in_stock
+70,Сумка #070,Сумки и аксессуары,Brand A,1990,out_of_stock
+71,Крем #071,Спорт,Brand A,24990,in_stock
+72,Джинсы #072,Дом,Brand C,24990,low_stock
+73,Джинсы #073,Спорт,Brand D,1290,low_stock
+74,Платье #074,Спорт,Brand D,9990,out_of_stock
+75,Худи #075,Обувь,Brand A,6990,in_stock
+76,Платье #076,Спорт,Brand D,9990,in_stock
+77,Платье #077,Дом,Brand A,14990,in_stock
+78,Джинсы #078,Дом,Brand A,1990,out_of_stock
+79,Пальто #079,Обувь,Brand B,9990,low_stock
+80,Пальто #080,Сумки и аксессуары,Brand A,4490,out_of_stock
